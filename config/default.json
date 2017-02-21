@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/marvel",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "7/UKsToyNsf2z0Uj57sfaxmYfILF4cIcfS54hvWYAKVO6258sLF0Yl1AIHIyPiTvetOxwA2n1fiZB8WkCcLkXw=="
+    },
+    "local": {}
+  }
+}
